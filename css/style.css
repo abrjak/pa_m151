@@ -1,0 +1,17 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#registerDiv, #loginDiv {
+    width: 40%;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
+    opacity: 0.9;
+}
+
+#btnLogin, #btnRegister {
+    width: 100%;
+}
